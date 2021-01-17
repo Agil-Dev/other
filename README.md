@@ -1,2 +1,2 @@
 # other
-This is a repository with links to repositories that I was a contributor to.
+* <a href="https://github.com/MrDzik/AntiAFK">AntiAFK MC 1.12.2 plugin</a>
